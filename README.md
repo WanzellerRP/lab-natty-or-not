@@ -5,17 +5,19 @@
   Gravar um vídeo rápido explicando como usar os quantificadores em Inglês.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+A Princípio usei o Gamma pra fazer uma apresentação, porém não encaixei-a no projeto.
+Foi usado o chatGPT para o script a ser falado no vídeo.
+O HeyGen foi usado na construção do vídeo.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Tive que cadastrar no HeyGen e criar um avatar, após isso fiz um pequeno script no chatGPT para usar no HeyGen. 
+Então o HeyGen criei o projeto DIO_first_Vide.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O resultado do projeto foi um vídeo. e uma apresentação no Gamma.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+O desafio sem dúvida nos tira da zona de conforto e nos coloca de frente com esse mundo novo.
 
 ### Exemplos e Insigths
 
