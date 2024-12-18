@@ -14,7 +14,7 @@ Tive que cadastrar no HeyGen e criar um avatar, após isso fiz um pequeno script
 Então o HeyGen criei o projeto DIO_first_Vide.
 
 ## 🚀 Resultados
-O resultado do projeto foi um vídeo. e uma apresentação no Gamma.
+O resultado do projeto foi um vídeo que foi anexado aqui (Dio_first_Video.mp4). e uma apresentação no Gamma também anexada Entendendo-Quantificadores-em-Ingles.pptx.
 
 ## 💭 Reflexão (Opcional)
 O desafio sem dúvida nos tira da zona de conforto e nos coloca de frente com esse mundo novo.
